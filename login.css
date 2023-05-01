@@ -1,0 +1,65 @@
+
+#table{
+    color:#0077ff ;
+    width: 300px;
+    height: 70px;
+    border-radius: 100px;
+    margin: 20x;
+}
+
+
+
+.text{
+
+}
+
+.i{
+    width: 24px;
+    height: 24px;
+margin-inline-end: 10px;
+margin-left: 10%;
+}
+.icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 10%;
+}
+.b{
+    width: 300px;
+    height: 70;
+    border-radius: 100px;
+    text-align: center;
+    background-color: white;
+    text-align: center
+    
+}
+.s{
+    text-align:center;
+    width: 300px;
+    height: 70px;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: white
+}
+.c{
+    width: 300px;
+    height: 70px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+.pass{
+    width: 300px;
+    height: 40px;
+    margin: 20px;
+    border-color: white;
+    border-radius: 10px;
+}
+.p{
+    width: 300px;
+    height: 70px;
+    border-radius: 100px;
+    margin: 10px;
+
+}

@@ -1,0 +1,31 @@
+.body{
+    
+}
+#Right{
+    
+    color: #0077ff;
+    border-color: #0077ff;
+    border-radius:100px;
+    padding: 10;
+    align-content: end;
+
+}
+.signin{
+    height: 50px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: #0077ff ;
+    color: white;
+    align-self: normal;
+    border-color: #0077ff;
+    margin: 10px
+    
+}
+.login{
+    height: 50px;
+    width: 200px;
+    box-sizing: content-box;
+    border-radius: 100px;
+    border-color: #0077ff ;
+    color: #0077ff ;
+}
